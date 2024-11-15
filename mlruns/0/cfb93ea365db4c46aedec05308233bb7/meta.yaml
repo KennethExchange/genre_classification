@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/cfb93ea365db4c46aedec05308233bb7/artifacts
+end_time: 1731699269956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfb93ea365db4c46aedec05308233bb7
+run_name: victorious-stoat-808
+run_uuid: cfb93ea365db4c46aedec05308233bb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731699240950
+status: 4
+tags: []
+user_id: kenne

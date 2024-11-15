@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/51743b2cfe824661bd10b3562a091202/artifacts
+end_time: 1731698430882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51743b2cfe824661bd10b3562a091202
+run_name: resilient-mink-881
+run_uuid: 51743b2cfe824661bd10b3562a091202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731698424187
+status: 4
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/d59f65b0e9ba4c649564308a12ae38e2/artifacts
+end_time: 1731698448327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d59f65b0e9ba4c649564308a12ae38e2
+run_name: colorful-ant-904
+run_uuid: d59f65b0e9ba4c649564308a12ae38e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731698441921
+status: 4
+tags: []
+user_id: kenne

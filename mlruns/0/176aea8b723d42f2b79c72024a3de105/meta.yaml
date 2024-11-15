@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/176aea8b723d42f2b79c72024a3de105/artifacts
+end_time: 1731701806585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 176aea8b723d42f2b79c72024a3de105
+run_name: clumsy-wren-613
+run_uuid: 176aea8b723d42f2b79c72024a3de105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731701786215
+status: 4
+tags: []
+user_id: kenne

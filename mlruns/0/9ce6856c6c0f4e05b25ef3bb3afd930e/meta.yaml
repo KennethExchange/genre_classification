@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/9ce6856c6c0f4e05b25ef3bb3afd930e/artifacts
+end_time: 1731701539147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ce6856c6c0f4e05b25ef3bb3afd930e
+run_name: magnificent-loon-417
+run_uuid: 9ce6856c6c0f4e05b25ef3bb3afd930e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731701510861
+status: 4
+tags: []
+user_id: kenne

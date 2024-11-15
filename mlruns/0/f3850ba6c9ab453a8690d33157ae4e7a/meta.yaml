@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/f3850ba6c9ab453a8690d33157ae4e7a/artifacts
+end_time: 1731699113612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3850ba6c9ab453a8690d33157ae4e7a
+run_name: monumental-ram-805
+run_uuid: f3850ba6c9ab453a8690d33157ae4e7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731699107490
+status: 4
+tags: []
+user_id: kenne

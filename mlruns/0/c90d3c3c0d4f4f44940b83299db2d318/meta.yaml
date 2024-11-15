@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/c90d3c3c0d4f4f44940b83299db2d318/artifacts
+end_time: 1731697472983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c90d3c3c0d4f4f44940b83299db2d318
+run_name: gifted-horse-871
+run_uuid: c90d3c3c0d4f4f44940b83299db2d318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731697468884
+status: 4
+tags: []
+user_id: kenne

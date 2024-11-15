@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/8e86b55dcd56466b9404143a385c93c4/artifacts
+end_time: 1731701288567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e86b55dcd56466b9404143a385c93c4
+run_name: ambitious-hog-99
+run_uuid: 8e86b55dcd56466b9404143a385c93c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731701280895
+status: 4
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/c07f35b31dea42d0b7e8ee074c2accc3/artifacts
+end_time: 1731698802630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c07f35b31dea42d0b7e8ee074c2accc3
+run_name: traveling-stag-758
+run_uuid: c07f35b31dea42d0b7e8ee074c2accc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731698796666
+status: 4
+tags: []
+user_id: kenne

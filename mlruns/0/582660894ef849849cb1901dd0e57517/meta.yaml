@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/582660894ef849849cb1901dd0e57517/artifacts
+end_time: 1731700095109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 582660894ef849849cb1901dd0e57517
+run_name: vaunted-snail-902
+run_uuid: 582660894ef849849cb1901dd0e57517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731699917247
+status: 4
+tags: []
+user_id: kenne

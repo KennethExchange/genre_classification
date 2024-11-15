@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/2d2008584f234a9494a714de2aad1c14/artifacts
+end_time: 1731697357318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d2008584f234a9494a714de2aad1c14
+run_name: useful-penguin-444
+run_uuid: 2d2008584f234a9494a714de2aad1c14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731697353222
+status: 4
+tags: []
+user_id: kenne

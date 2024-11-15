@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/18cd943f6f1147fa8731179288c3722d/artifacts
+end_time: 1731701990035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18cd943f6f1147fa8731179288c3722d
+run_name: righteous-steed-376
+run_uuid: 18cd943f6f1147fa8731179288c3722d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731701970956
+status: 4
+tags: []
+user_id: kenne

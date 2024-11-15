@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/f4d594419f9649598a4de32bddef4ef1/artifacts
+end_time: 1731701042317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4d594419f9649598a4de32bddef4ef1
+run_name: abrasive-tern-746
+run_uuid: f4d594419f9649598a4de32bddef4ef1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731700867546
+status: 4
+tags: []
+user_id: kenne

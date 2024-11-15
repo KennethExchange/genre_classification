@@ -21,7 +21,13 @@ def go(args):
     # destroyed at the end of the context, so we don't leave anything
     # behind and the file gets removed even in case of errors
     logger.info(f"Downloading {args.file_url} ...")
-    with tempfile.NamedTemporaryFile(mode='wb+') as fp:
+
+    # assigned temp folder to desktop
+    with tempfile.NamedTemporaryFile(mode='wb+',
+                                     delete=False,
+                                     dir='C:\\Users\\kenne\\Desktop\\MLFLOW_TEMP'
+                                     ) as fp:
+
 
         logger.info("Creating run")
         with wandb.init(job_type="download_data") as run:
@@ -42,12 +48,12 @@ def go(args):
                 metadata={'original_url': args.file_url}
             )
 
-            try:
-                artifact.add_file(fp.name, name=basename)
-            except Exception as e:
-                print("Error adding file to artifact:", e)
+            #try:
+            #    artifact.add_file(fp.name, name=basename)
+            #except Exception as e:
+            #    print("Error adding file to artifact:", e)
 
-            ## artifact.add_file(fp.name, name=basename)
+            artifact.add_file(fp.name, name=basename)
 
             logger.info("Logging artifact")
             run.log_artifact(artifact)

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/c721e52677374193b98d1c0f0d2d3e42/artifacts
+end_time: 1731699069327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c721e52677374193b98d1c0f0d2d3e42
+run_name: resilient-tern-999
+run_uuid: c721e52677374193b98d1c0f0d2d3e42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731699063316
+status: 4
+tags: []
+user_id: kenne

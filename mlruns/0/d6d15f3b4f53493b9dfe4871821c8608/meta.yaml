@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/d6d15f3b4f53493b9dfe4871821c8608/artifacts
+end_time: 1731701538575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6d15f3b4f53493b9dfe4871821c8608
+run_name: rare-stoat-715
+run_uuid: d6d15f3b4f53493b9dfe4871821c8608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731701517195
+status: 4
+tags: []
+user_id: kenne

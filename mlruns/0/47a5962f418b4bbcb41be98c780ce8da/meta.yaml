@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/47a5962f418b4bbcb41be98c780ce8da/artifacts
+end_time: 1731700094365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47a5962f418b4bbcb41be98c780ce8da
+run_name: sneaky-hare-179
+run_uuid: 47a5962f418b4bbcb41be98c780ce8da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731699924169
+status: 4
+tags: []
+user_id: kenne

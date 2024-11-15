@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/28d13a4e5c7147f0ab39efaeff722c9b/artifacts
+end_time: 1731697634374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28d13a4e5c7147f0ab39efaeff722c9b
+run_name: rumbling-bug-421
+run_uuid: 28d13a4e5c7147f0ab39efaeff722c9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731697603617
+status: 3
+tags: []
+user_id: kenne

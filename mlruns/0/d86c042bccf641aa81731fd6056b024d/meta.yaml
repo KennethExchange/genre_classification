@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/d86c042bccf641aa81731fd6056b024d/artifacts
+end_time: 1731701041642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d86c042bccf641aa81731fd6056b024d
+run_name: intelligent-asp-928
+run_uuid: d86c042bccf641aa81731fd6056b024d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731700873702
+status: 4
+tags: []
+user_id: kenne

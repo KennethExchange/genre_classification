@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/fedac17607264f56a3efe53783bc7ef8/artifacts
+end_time: 1731699269415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fedac17607264f56a3efe53783bc7ef8
+run_name: glamorous-bug-894
+run_uuid: fedac17607264f56a3efe53783bc7ef8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731699247034
+status: 4
+tags: []
+user_id: kenne

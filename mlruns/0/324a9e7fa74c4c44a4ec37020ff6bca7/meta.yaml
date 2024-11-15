@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/324a9e7fa74c4c44a4ec37020ff6bca7/artifacts
+end_time: 1731697357872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 324a9e7fa74c4c44a4ec37020ff6bca7
+run_name: nebulous-croc-1
+run_uuid: 324a9e7fa74c4c44a4ec37020ff6bca7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731697347135
+status: 4
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/70133deb9b4b484998df9fb7b5ab3a90/artifacts
+end_time: 1731701136074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70133deb9b4b484998df9fb7b5ab3a90
+run_name: gentle-bear-103
+run_uuid: 70133deb9b4b484998df9fb7b5ab3a90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731701120158
+status: 4
+tags: []
+user_id: kenne

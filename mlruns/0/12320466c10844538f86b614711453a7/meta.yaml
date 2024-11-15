@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/12320466c10844538f86b614711453a7/artifacts
+end_time: 1731699013135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12320466c10844538f86b614711453a7
+run_name: hilarious-seal-434
+run_uuid: 12320466c10844538f86b614711453a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731699007179
+status: 4
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/7c131028a50147b3b2399123a49af37b/artifacts
+end_time: 1731697634140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c131028a50147b3b2399123a49af37b
+run_name: mercurial-crow-611
+run_uuid: 7c131028a50147b3b2399123a49af37b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731697610516
+status: 3
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/bede34c0949e4ba0a66597a7e7f10d1f/artifacts
+end_time: 1731698830376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bede34c0949e4ba0a66597a7e7f10d1f
+run_name: upset-horse-821
+run_uuid: bede34c0949e4ba0a66597a7e7f10d1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731698824394
+status: 4
+tags: []
+user_id: kenne

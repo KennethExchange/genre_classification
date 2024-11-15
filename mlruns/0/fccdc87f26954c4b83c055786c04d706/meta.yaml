@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/fccdc87f26954c4b83c055786c04d706/artifacts
+end_time: 1731699369287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fccdc87f26954c4b83c055786c04d706
+run_name: chill-loon-492
+run_uuid: fccdc87f26954c4b83c055786c04d706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731699327255
+status: 3
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/f8e16b98a163496c9df5d8d35c970dc5/artifacts
+end_time: 1731697401169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8e16b98a163496c9df5d8d35c970dc5
+run_name: carefree-foal-392
+run_uuid: f8e16b98a163496c9df5d8d35c970dc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731697396923
+status: 4
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/484de4bc243d43349e95f9945453027a/artifacts
+end_time: 1731701807168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 484de4bc243d43349e95f9945453027a
+run_name: rare-roo-977
+run_uuid: 484de4bc243d43349e95f9945453027a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731701779836
+status: 4
+tags: []
+user_id: kenne

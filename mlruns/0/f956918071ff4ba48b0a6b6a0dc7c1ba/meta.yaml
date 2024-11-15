@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/f956918071ff4ba48b0a6b6a0dc7c1ba/artifacts
+end_time: 1731696285268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f956918071ff4ba48b0a6b6a0dc7c1ba
+run_name: omniscient-zebra-29
+run_uuid: f956918071ff4ba48b0a6b6a0dc7c1ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731696265224
+status: 4
+tags: []
+user_id: kenne

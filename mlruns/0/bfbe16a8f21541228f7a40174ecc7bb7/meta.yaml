@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/bfbe16a8f21541228f7a40174ecc7bb7/artifacts
+end_time: 1731699146260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfbe16a8f21541228f7a40174ecc7bb7
+run_name: suave-colt-781
+run_uuid: bfbe16a8f21541228f7a40174ecc7bb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731699131076
+status: 3
+tags: []
+user_id: kenne

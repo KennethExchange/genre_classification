@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/cb25745d35194391ac9a2e87c7abecab/artifacts
+end_time: 1731699051378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb25745d35194391ac9a2e87c7abecab
+run_name: popular-seal-735
+run_uuid: cb25745d35194391ac9a2e87c7abecab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731699045416
+status: 4
+tags: []
+user_id: kenne
