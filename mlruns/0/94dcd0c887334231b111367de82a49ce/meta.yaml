@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/94dcd0c887334231b111367de82a49ce/artifacts
+end_time: 1731693146916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94dcd0c887334231b111367de82a49ce
+run_name: unique-auk-141
+run_uuid: 94dcd0c887334231b111367de82a49ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731693142727
+status: 4
+tags: []
+user_id: kenne

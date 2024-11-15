@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/a88e286cfe454f2f96b680c99fa566bb/artifacts
+end_time: 1731694256048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a88e286cfe454f2f96b680c99fa566bb
+run_name: rumbling-bass-567
+run_uuid: a88e286cfe454f2f96b680c99fa566bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731694226446
+status: 3
+tags: []
+user_id: kenne

@@ -33,7 +33,7 @@ def go(config: DictConfig):
                 "file_url": config["data"]["file_url"],
                 "artifact_name": "raw_data.parquet",
                 "artifact_type": "raw_data",
-                "artifact_description": "Data as downloaded"
+                "artifact_description": "Data_as_downloaded"
             },
         )
 
@@ -41,10 +41,10 @@ def go(config: DictConfig):
 
         ## YOUR CODE HERE: call the preprocess step
         _ = mlflow.run(
-            op.path.join(root_path, "preprocess"),
+            os.path.join(root_path, "preprocess"),
             "main",
             parameters={
-                "input artifact": "raw_data.parquet:latest",
+                "input_artifact": "raw_data.parquet:latest",
                 "artifact_name": "preprocessed_data.csv",
                 "artifact_type": "preprocessed_data",
                 "artifact_description": "Data_with_preprocessing_applied"

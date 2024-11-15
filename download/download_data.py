@@ -41,7 +41,13 @@ def go(args):
                 description=args.artifact_description,
                 metadata={'original_url': args.file_url}
             )
-            artifact.add_file(fp.name, name=basename)
+
+            try:
+                artifact.add_file(fp.name, name=basename)
+            except Exception as e:
+                print("Error adding file to artifact:", e)
+
+            ## artifact.add_file(fp.name, name=basename)
 
             logger.info("Logging artifact")
             run.log_artifact(artifact)

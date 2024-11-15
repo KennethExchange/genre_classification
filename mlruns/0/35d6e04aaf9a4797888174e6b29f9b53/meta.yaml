@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/35d6e04aaf9a4797888174e6b29f9b53/artifacts
+end_time: 1731692084518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35d6e04aaf9a4797888174e6b29f9b53
+run_name: trusting-mare-767
+run_uuid: 35d6e04aaf9a4797888174e6b29f9b53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731692080134
+status: 4
+tags: []
+user_id: kenne

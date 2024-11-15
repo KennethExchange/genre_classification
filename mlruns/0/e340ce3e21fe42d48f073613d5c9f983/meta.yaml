@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/e340ce3e21fe42d48f073613d5c9f983/artifacts
+end_time: 1731694619866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e340ce3e21fe42d48f073613d5c9f983
+run_name: monumental-bird-805
+run_uuid: e340ce3e21fe42d48f073613d5c9f983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731694603672
+status: 4
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/c397b3851fbf49ecadbc812cdd9aba24/artifacts
+end_time: 1731694075787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c397b3851fbf49ecadbc812cdd9aba24
+run_name: bustling-kit-807
+run_uuid: c397b3851fbf49ecadbc812cdd9aba24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731694062575
+status: 4
+tags: []
+user_id: kenne

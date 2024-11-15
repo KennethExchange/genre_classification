@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/2256896269cd4e56a7f77b57d594f41c/artifacts
+end_time: 1731694361063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2256896269cd4e56a7f77b57d594f41c
+run_name: fearless-foal-45
+run_uuid: 2256896269cd4e56a7f77b57d594f41c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731694353870
+status: 4
+tags: []
+user_id: kenne

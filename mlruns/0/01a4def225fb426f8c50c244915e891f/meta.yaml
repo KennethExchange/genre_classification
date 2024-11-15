@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/01a4def225fb426f8c50c244915e891f/artifacts
+end_time: 1731692683020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01a4def225fb426f8c50c244915e891f
+run_name: luxuriant-donkey-24
+run_uuid: 01a4def225fb426f8c50c244915e891f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731692678763
+status: 4
+tags: []
+user_id: kenne

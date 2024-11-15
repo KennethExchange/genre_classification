@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/a8e4283b103d4c55b9ed29356a986179/artifacts
+end_time: 1731692696144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8e4283b103d4c55b9ed29356a986179
+run_name: gifted-bat-395
+run_uuid: a8e4283b103d4c55b9ed29356a986179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731692691825
+status: 4
+tags: []
+user_id: kenne

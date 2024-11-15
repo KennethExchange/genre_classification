@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/83b3994e62a3433ab21c0fac1aa60517/artifacts
+end_time: 1731694075192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83b3994e62a3433ab21c0fac1aa60517
+run_name: bemused-worm-89
+run_uuid: 83b3994e62a3433ab21c0fac1aa60517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731694069218
+status: 4
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/6d42e86c98d540b5b0bce047a121c49e/artifacts
+end_time: 1731693867633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d42e86c98d540b5b0bce047a121c49e
+run_name: enthused-skunk-396
+run_uuid: 6d42e86c98d540b5b0bce047a121c49e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731693784527
+status: 4
+tags: []
+user_id: kenne

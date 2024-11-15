@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/df1fbc3364774daca27592d9641b81cf/artifacts
+end_time: 1731693706155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df1fbc3364774daca27592d9641b81cf
+run_name: big-fish-534
+run_uuid: df1fbc3364774daca27592d9641b81cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731693689453
+status: 4
+tags: []
+user_id: kenne
