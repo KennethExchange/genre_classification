@@ -1,0 +1,63 @@
+{
+    "os": "Windows-11-10.0.22631-SP0",
+    "python": "3.12.7",
+    "heartbeatAt": "2024-11-15T21:52:59.322926",
+    "startedAt": "2024-11-15T21:52:58.796032",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/preprocessed_data.csv:latest",
+        "--sample_artifact",
+        "preprocessed_data.csv:latest",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\kenne\\miniconda3\\envs\\mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819\\Scripts\\pytest-script.py",
+    "codePathLocal": "..\\..\\..\\..\\miniconda3\\envs\\mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819\\Scripts\\pytest-script.py",
+    "codePath": "..\\..\\..\\miniconda3\\envs\\mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819\\Scripts\\pytest-script.py",
+    "git": {
+        "remote": "https://github.com/KennethExchange/genre_classification.git",
+        "commit": "544b9aaf5bd25fc3332ec329e4b88b7b5dcbc826"
+    },
+    "email": "kenneth.exchange@gmail.com",
+    "root": "C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification",
+    "host": "KCE-G14",
+    "username": "kenne",
+    "executable": "C:\\Users\\kenne\\miniconda3\\envs\\mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3201.0,
+        "min": 0.0,
+        "max": 3201.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3201.0,
+            "min": 0.0,
+            "max": 3201.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 453.7405433654785,
+            "used": 449.4559020996094
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.405460357666016
+    }
+}

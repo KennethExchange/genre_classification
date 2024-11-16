@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/23bf40b47e654b1ba39cf6dbbba144ea/artifacts
+end_time: 1731707266753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23bf40b47e654b1ba39cf6dbbba144ea
+run_name: funny-sponge-789
+run_uuid: 23bf40b47e654b1ba39cf6dbbba144ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731707260697
+status: 4
+tags: []
+user_id: kenne

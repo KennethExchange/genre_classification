@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/098b22335c4d46f5a6aed96cd41fd144/artifacts
+end_time: 1731705647478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 098b22335c4d46f5a6aed96cd41fd144
+run_name: omniscient-loon-835
+run_uuid: 098b22335c4d46f5a6aed96cd41fd144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731705641384
+status: 4
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/4a4fc3ba24544648b48b3298d868a88d/artifacts
+end_time: 1731714727272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a4fc3ba24544648b48b3298d868a88d
+run_name: receptive-hog-791
+run_uuid: 4a4fc3ba24544648b48b3298d868a88d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731714709514
+status: 4
+tags: []
+user_id: kenne

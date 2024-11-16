@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/9b3e4e47008a43a3892149250def8ad7/artifacts
+end_time: 1731714632551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b3e4e47008a43a3892149250def8ad7
+run_name: calm-yak-201
+run_uuid: 9b3e4e47008a43a3892149250def8ad7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731714611864
+status: 3
+tags: []
+user_id: kenne

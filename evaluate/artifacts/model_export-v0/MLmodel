@@ -14,7 +14,7 @@ flavors:
     sklearn_version: 1.4.1.post1
 mlflow_version: 2.8.1
 model_size_bytes: 5288068
-model_uuid: 3e5209a9792544f39c887d127d507535
+model_uuid: 837c3df1f6c14d4ab7be02d0947cdbd9
 saved_input_example_info:
   artifact_path: input_example.json
   pandas_orient: split
@@ -29,4 +29,4 @@ signature:
     "time_signature"}, {"type": "string", "name": "text_feature"}]'
   outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "object", "shape": [-1]}}]'
   params: null
-utc_time_created: '2024-11-15 19:50:43.734536'
+utc_time_created: '2024-11-15 23:54:12.506528'

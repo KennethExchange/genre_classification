@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/89e8fa6b621749e989447f7840b7e2a1/artifacts
+end_time: 1731705419572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89e8fa6b621749e989447f7840b7e2a1
+run_name: grandiose-bird-515
+run_uuid: 89e8fa6b621749e989447f7840b7e2a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731705413531
+status: 4
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/b65b90db67d84ddca39a5ac261449290/artifacts
+end_time: 1731705323104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b65b90db67d84ddca39a5ac261449290
+run_name: charming-fawn-210
+run_uuid: b65b90db67d84ddca39a5ac261449290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731705315330
+status: 4
+tags: []
+user_id: kenne

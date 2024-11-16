@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/c217c7051c5c47b1bc9db5ef63d6ef4c/artifacts
+end_time: 1731706650257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c217c7051c5c47b1bc9db5ef63d6ef4c
+run_name: rebellious-goat-403
+run_uuid: c217c7051c5c47b1bc9db5ef63d6ef4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731706646178
+status: 3
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/c935987ecb584582abe5ba14a1a958d3/artifacts
+end_time: 1731706489254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c935987ecb584582abe5ba14a1a958d3
+run_name: defiant-fawn-772
+run_uuid: c935987ecb584582abe5ba14a1a958d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731706483142
+status: 4
+tags: []
+user_id: kenne

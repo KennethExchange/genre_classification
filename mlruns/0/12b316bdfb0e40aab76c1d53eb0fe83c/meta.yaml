@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/12b316bdfb0e40aab76c1d53eb0fe83c/artifacts
+end_time: 1731707569680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12b316bdfb0e40aab76c1d53eb0fe83c
+run_name: funny-slug-230
+run_uuid: 12b316bdfb0e40aab76c1d53eb0fe83c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731707519800
+status: 3
+tags: []
+user_id: kenne

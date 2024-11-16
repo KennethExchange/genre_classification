@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/6cc03e2619764eb4b2204db2762bd602/artifacts
+end_time: 1731706104694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cc03e2619764eb4b2204db2762bd602
+run_name: clumsy-shoat-405
+run_uuid: 6cc03e2619764eb4b2204db2762bd602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731706100749
+status: 3
+tags: []
+user_id: kenne

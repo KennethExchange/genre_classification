@@ -1,0 +1,62 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.10.15",
+    "heartbeatAt": "2024-11-15T21:52:08.945600",
+    "startedAt": "2024-11-15T21:52:08.234531",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "raw_data.parquet:latest",
+        "--artifact_name",
+        "preprocessed_data.csv",
+        "--artifact_type",
+        "preprocessed_data",
+        "--artifact_description",
+        "Data_with_preprocessing_applied"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\kenne\\Desktop\\nd0821-c2-build-model-workflow-exercises-master\\genre_classification\\preprocess\\run.py",
+    "codePathLocal": "run.py",
+    "codePath": "preprocess\\run.py",
+    "git": {
+        "remote": "https://github.com/KennethExchange/genre_classification.git",
+        "commit": "544b9aaf5bd25fc3332ec329e4b88b7b5dcbc826"
+    },
+    "email": "kenneth.exchange@gmail.com",
+    "root": "C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification",
+    "host": "KCE-G14",
+    "username": "kenne",
+    "executable": "C:\\Users\\kenne\\miniconda3\\envs\\mlflow-b662b891138f514f86ea83df6f384dc4f23b43c1\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3201.0,
+        "min": 0.0,
+        "max": 3201.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3201.0,
+            "min": 0.0,
+            "max": 3201.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 453.7405433654785,
+            "used": 449.45673751831055
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.405460357666016
+    }
+}

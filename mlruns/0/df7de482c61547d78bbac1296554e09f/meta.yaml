@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/df7de482c61547d78bbac1296554e09f/artifacts
+end_time: 1731714810848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df7de482c61547d78bbac1296554e09f
+run_name: indecisive-mouse-353
+run_uuid: df7de482c61547d78bbac1296554e09f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731714793408
+status: 4
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/9f3222a8566f42ff951aa1b005a9751d/artifacts
+end_time: 1731714510001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f3222a8566f42ff951aa1b005a9751d
+run_name: amazing-bee-413
+run_uuid: 9f3222a8566f42ff951aa1b005a9751d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731714504064
+status: 4
+tags: []
+user_id: kenne

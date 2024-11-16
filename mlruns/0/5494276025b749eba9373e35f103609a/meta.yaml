@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/5494276025b749eba9373e35f103609a/artifacts
+end_time: 1731707589422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5494276025b749eba9373e35f103609a
+run_name: skittish-gnat-519
+run_uuid: 5494276025b749eba9373e35f103609a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731707569809
+status: 4
+tags: []
+user_id: kenne

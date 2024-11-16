@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/d4590a963fad4138b2d62dcfc4ca24d1/artifacts
+end_time: 1731706683977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4590a963fad4138b2d62dcfc4ca24d1
+run_name: omniscient-croc-848
+run_uuid: d4590a963fad4138b2d62dcfc4ca24d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731706679957
+status: 3
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/fa04a711396848f39a101208d52868c2/artifacts
+end_time: 1731714775859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa04a711396848f39a101208d52868c2
+run_name: funny-cub-6
+run_uuid: fa04a711396848f39a101208d52868c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731714742034
+status: 3
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/b7f5e43e1b224d99afbd9cf6705cbbd4/artifacts
+end_time: 1731705836185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7f5e43e1b224d99afbd9cf6705cbbd4
+run_name: abrasive-carp-425
+run_uuid: b7f5e43e1b224d99afbd9cf6705cbbd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731705830378
+status: 4
+tags: []
+user_id: kenne

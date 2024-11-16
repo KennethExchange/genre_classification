@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/2999349c59f14a618de2adb53cc272d7/artifacts
+end_time: 1731714727915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2999349c59f14a618de2adb53cc272d7
+run_name: auspicious-elk-43
+run_uuid: 2999349c59f14a618de2adb53cc272d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731714703490
+status: 4
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/2887245e509242109b61d9a6ab4d12a4/artifacts
+end_time: 1731714775688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2887245e509242109b61d9a6ab4d12a4
+run_name: receptive-shrimp-159
+run_uuid: 2887245e509242109b61d9a6ab4d12a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731714748242
+status: 3
+tags: []
+user_id: kenne

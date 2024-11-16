@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/0e5040d7cc2d4e58bbd00a121b143db8/artifacts
+end_time: 1731705779331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e5040d7cc2d4e58bbd00a121b143db8
+run_name: intelligent-cat-586
+run_uuid: 0e5040d7cc2d4e58bbd00a121b143db8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731705773424
+status: 4
+tags: []
+user_id: kenne

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/07901a10f96f49efae07a703dec3c46f/artifacts
+end_time: 1731706334161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07901a10f96f49efae07a703dec3c46f
+run_name: able-flea-759
+run_uuid: 07901a10f96f49efae07a703dec3c46f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731706328209
+status: 4
+tags: []
+user_id: kenne

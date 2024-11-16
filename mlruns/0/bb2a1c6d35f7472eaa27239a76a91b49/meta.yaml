@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kenne/Desktop/nd0821-c2-build-model-workflow-exercises-master/genre_classification/mlruns/0/bb2a1c6d35f7472eaa27239a76a91b49/artifacts
+end_time: 1731707462011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb2a1c6d35f7472eaa27239a76a91b49
+run_name: gifted-panda-246
+run_uuid: bb2a1c6d35f7472eaa27239a76a91b49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731707455991
+status: 4
+tags: []
+user_id: kenne
